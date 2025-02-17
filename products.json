@@ -36,6 +36,67 @@
       "warrantyLink":"images/appliance-warranty.png"
   },
     {
+      "id": "54e0eccd-8f36-462b-b68a-8182611d9add",
+      "image": "images/products/black-2-slot-toaster.jpg",
+      "name": "2 Slot Toaster - Black",
+      "rating": {
+        "stars": 5,
+        "count": 2197
+      },
+      "priceCents": 1899,
+      "keywords": [
+        "toaster",
+        "kitchen",
+        "appliances"
+      ],
+      "type": "appliance",
+      "instructionsLink":"images/appliance-instructions.png",
+      "warrantyLink":"images/appliance-warranty.png"
+    },
+    {
+    "id": "headphone345678",
+    "image": "images/products/headphones.jpg",
+    "name": "Original Bluetooth Earphone Wireless Headphones",
+    "rating": {
+      "stars": 4.5,
+      "count": 87
+    },
+    "priceCents": 9090,
+    "keywords": [
+      "bluetooth",
+      "earphone",
+      "wireless",
+      "headphones",
+      "wireless earphone",
+      "bluetooth earphone"
+    ],
+    "type": "appliance",
+      "instructionsLink":"images/appliance-instructions.png",
+      "warrantyLink":"images/appliance-warranty.png"
+  },
+  {
+    "id": "earbud678",
+    "image": "images/products/earbud.jpg",
+    "name": "Hybrid ANC True Wireless Earbuds",
+    "rating": {
+      "stars": 4.5,
+      "count": 87
+    },
+    "priceCents": 3090,
+    "keywords": [
+      "earbuds",
+      "earbud",
+      "earphone",
+      "wireless",
+      "wireless earphone",
+      "bluetooth earphone",
+      "bluetooth"
+    ],
+    "type": "appliance",
+      "instructionsLink":"images/appliance-instructions.png",
+      "warrantyLink":"images/appliance-warranty.png"
+  },
+    {
       "id": "e43638ce-6aa0-4b85-b27f-e1d07eb678c6",
       "image": "images/products/athletic-cotton-socks-6-pairs.jpg",
       "name": "Black and Gray Athletic Cotton Socks - 6 Pairs",
@@ -80,24 +141,6 @@
       ],
       "type": "clothing",
       "sizeChartLink": "images/clothing-size-chart.png"
-    },
-    {
-      "id": "54e0eccd-8f36-462b-b68a-8182611d9add",
-      "image": "images/products/black-2-slot-toaster.jpg",
-      "name": "2 Slot Toaster - Black",
-      "rating": {
-        "stars": 5,
-        "count": 2197
-      },
-      "priceCents": 1899,
-      "keywords": [
-        "toaster",
-        "kitchen",
-        "appliances"
-      ],
-      "type": "appliance",
-      "instructionsLink":"images/appliance-instructions.png",
-      "warrantyLink":"images/appliance-warranty.png"
     },
     {
       "id": "3ebe75dc-64d2-4137-8860-1f5a963e534b",
