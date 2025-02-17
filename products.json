@@ -1,5 +1,41 @@
 [
     {
+    "id": "dispenser102345678",
+    "image": "images/products/dispenser.jpg",
+    "name": "Water Dispenser, Standing, Hot & Electric",
+    "rating": {
+      "stars": 4.5,
+      "count": 87
+    },
+    "priceCents": 10090,
+    "keywords": [
+      "dispenser",
+      "water dispenser",
+      "hot"
+    ],
+    "type": "appliance",
+      "instructionsLink":"images/appliance-instructions.png",
+      "warrantyLink":"images/appliance-warranty.png"
+  },
+  {
+    "id": "ironbox678",
+    "image": "images/products/ironbox.jpg",
+    "name": "Quality Dry Iron Box",
+    "rating": {
+      "stars": 4.5,
+      "count": 87
+    },
+    "priceCents": 3090,
+    "keywords": [
+      "iron box",
+      "iron",
+      "quality"
+    ],
+    "type": "appliance",
+      "instructionsLink":"images/appliance-instructions.png",
+      "warrantyLink":"images/appliance-warranty.png"
+  },
+    {
       "id": "e43638ce-6aa0-4b85-b27f-e1d07eb678c6",
       "image": "images/products/athletic-cotton-socks-6-pairs.jpg",
       "name": "Black and Gray Athletic Cotton Socks - 6 Pairs",
